@@ -1,1 +1,1 @@
-nothing yet
+buttons.html, challenge2f.html, and website.html were part of SuperSimpleDev's YouTube course, but I've since switched to following the Odin Project's Foundations course and thus every other file not mentioned earlier is related to topics/projects with TOP.
